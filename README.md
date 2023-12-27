@@ -17,7 +17,7 @@
            
   **2.Open the project in Apache NetBeans IDE 20.**
 
-  **Run the game and start guessing numbers!**
+  **3.Run the game and start guessing numbers!**
 
 # Contribution Guidelines:
   Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
